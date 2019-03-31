@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Import", "Demo.Import\Demo.Import.csproj", "{D8D650E7-F4DC-4B9F-8AB7-D6BA0364D264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Accounting", "Demo.Accounting\Demo.Accounting.csproj", "{4A526BC0-6EF8-4251-8423-38AEB7D76EA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.BillLogs", "Demo.BillLogs\Demo.BillLogs.csproj", "{B2C37FBC-2BBB-4310-A9F5-E5DEAA0A78A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8D650E7-F4DC-4B9F-8AB7-D6BA0364D264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D650E7-F4DC-4B9F-8AB7-D6BA0364D264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D650E7-F4DC-4B9F-8AB7-D6BA0364D264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D650E7-F4DC-4B9F-8AB7-D6BA0364D264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A526BC0-6EF8-4251-8423-38AEB7D76EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A526BC0-6EF8-4251-8423-38AEB7D76EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A526BC0-6EF8-4251-8423-38AEB7D76EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A526BC0-6EF8-4251-8423-38AEB7D76EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C37FBC-2BBB-4310-A9F5-E5DEAA0A78A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C37FBC-2BBB-4310-A9F5-E5DEAA0A78A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C37FBC-2BBB-4310-A9F5-E5DEAA0A78A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C37FBC-2BBB-4310-A9F5-E5DEAA0A78A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
